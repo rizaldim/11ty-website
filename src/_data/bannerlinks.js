@@ -22,5 +22,9 @@ export default [
   {
     label: "🇺🇦🇺🇦🇺🇦 Stand with Ukraine 🇺🇦🇺🇦🇺🇦",
     url: "https://war.ukraine.ua/"
-  }
+  },
+	{
+		label: "🇵🇸🇵🇸🇵🇸 Stand with Palestine 🇵🇸🇵🇸🇵🇸",
+    url: ""
+	}
 ];
